@@ -64,4 +64,13 @@
         }
       }
     }
+  .mob {
+    display: none;
+  }
+  .command-list li {
+      max-width: 100%;
+      &:last-child {
+        display: block;
+    }
+    }
 }

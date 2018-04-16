@@ -556,7 +556,12 @@ $(document).ready(function () {
 
   });
 
-  $('.modal-btn').fancybox();
+//  $('.modal-btn').fancybox();
+  $('[data-fancybox]').fancybox({
+	afterShow : function( instance, current ) {
+		console.info( instance );
+	}
+});
   $('.modal-btn').click(function () {
     $('.registration-form .field').each(function () {
       $(this).find('input').css({
@@ -577,7 +582,8 @@ $(document).ready(function () {
   });
   
   $('.mob-btn').click(function(){
-    $('.menu').slideToggle(200);
+    $('.menu').toggleClass('open');
+    $('.menu li.menu-item').slideToggle(200);
   })
 
 });

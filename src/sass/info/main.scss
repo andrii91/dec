@@ -61,6 +61,7 @@ body {
           font-weight: 700;
           padding: 8px 25px 7px;
           margin-top: -7px;
+          border: 1px solid #ccc;
           &:before {
             display: none;
           }
@@ -71,6 +72,8 @@ body {
           &:hover {
             color: #ffffff;
             background-color: #ff7088;
+          border: 1px solid #ff7088;
+            
           }
         }
       }
@@ -114,7 +117,7 @@ body {
 .head {
   margin-top: 100px;
   padding: 40px 0;
-  min-height: 100vh;
+  min-height: 90vh;
   background: url('../images/bg1.png') no-repeat center ;
 //  background-size: cover;
   display: -ms-flexbox;
@@ -131,7 +134,7 @@ body {
     font-family: "MADE Evolve Sans";
     font-size: 180px;
     font-weight: 700;
-    line-height: 150px;
+    line-height: 140px;
     margin-top: 0;
     margin-bottom: 30px;
   }
@@ -142,7 +145,7 @@ body {
     font-weight: 500;
     line-height: 24px;
     padding-left: 75px;
-    margin-bottom: 80px;
+    margin-bottom: 60px;
   }
 }
 
@@ -1209,9 +1212,20 @@ line-height: 21px;
       position: absolute;
       bottom: 14px;
       right: 32px;
-      height: 0;
-      border: 1px solid #e3e0dd;
+      height: 1px;
+//      border: 1px solid #e3e0dd;
+      background: #e3e0dd;
       width: 100px;
+      transition: 0.2s;
+      &:before {
+        content: "";
+        height: 1px;
+        width: 0;
+        top: 0;
+        position: absolute;
+        transition: 0.2s;
+        left: 0;
+      }
     }
     &:before {
       counter-increment: list;
@@ -1235,6 +1249,10 @@ line-height: 21px;
       position: absolute;
       bottom: 5px;
       right: 0;
+      transition: 0.3s;
+    }
+    &:hover:after {
+      color: #cb1358;
     }
     .more {
       display: none;
@@ -1248,6 +1266,16 @@ line-height: 21px;
       line-height: 24px;
       display: inline-block;
       max-width: 375px;
+      transition: 0.2s;
+      &:hover {
+        color: #cb1358;
+        + span {
+          &:before {
+            background: #cb1358;
+            width: 100%;
+          }
+        }
+      }
     }
     p {
       color: #747478;
@@ -1522,6 +1550,8 @@ letter-spacing: 0.48px;
       font-size: 14px;
       font-weight: 500;
       line-height: 24px;
+      display: block;
+     
       &.address {
         text-decoration: underline;
       }
@@ -1551,6 +1581,15 @@ letter-spacing: 0.48px;
         }
       }
     a {
+       display: inline-block;
+    vertical-align: middle;
+      
+      img {
+        margin-right: 6px;
+         display: inline-block;
+    vertical-align: middle;
+        
+      }
       svg {
         fill: #333333;
 
@@ -1817,8 +1856,11 @@ letter-spacing: 0.48px;
     transition: .2s;
   padding: 10px 29px;
   margin-top: -10px;
+          border: 1px solid #000;
+  
   &:hover {
         color: #fff;
+          border: 1px solid #ff7088;
     background-color: #ff7088;
   }
 }
@@ -1843,6 +1885,12 @@ letter-spacing: 0.48px;
     background: none;
     margin-bottom: 0;
     max-width: 100%;
+  }
+  .section_8-item {
+    
+    p, .title {
+      margin-bottom: 10px;
+    }
   }
 }
 
@@ -1938,4 +1986,18 @@ letter-spacing: 0.48px;
     }
   }
 }
+}
+
+.modal-content {
+  table {
+    td, th {
+      width: 50%;
+      border: 1px solid #000;
+      padding: 5px;
+    }
+  }
+}
+
+.mob {
+  display: none;
 }

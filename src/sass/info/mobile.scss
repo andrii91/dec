@@ -5,13 +5,17 @@
     padding-right: 15px;
   }
   .top-menu .menu {
-    display: none;
-    margin-top: 30px;
+    &.open {
+      margin-top: 30px;
+
+    }
     li {
       display: block;
       margin: 0;
       text-align: center;
       margin-bottom: 20px;
+      display: none;
+
       &.call {
         float: none;
       }
@@ -27,9 +31,9 @@
     text-align: left;
   }
   .top-menu .right {
-    -ms-flex: 0 0 1;
-    flex: 0 0 1;
-    max-width: 1;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
   }
   header,
   main,
@@ -38,6 +42,14 @@
   }
   .top-menu .menu li.phone {
     margin-left: 0;
+    position: absolute;
+    top: -34px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: block!important;
+  }
+  br {
+    display: none;
   }
   .head-hgroup h1 {
     font-size: 100px;
@@ -50,6 +62,7 @@
   .head {
     background-size: cover;
     background-position: 43%;
+        background: #f8f6f4;
   }
   .head-address {
     margin-top: 40px;
@@ -58,7 +71,7 @@
   }
   .head-info {
     margin-top: 40px;
-    float: right;
+    float: none;
   }
   .head-item {
     margin-top: 30px;
@@ -75,6 +88,9 @@
   }
   .section_1-items .col-lg-4:nth-child(3) .item {
     margin-top: 20px;
+  }
+  .video {
+    margin-top: 0;
   }
   .video iframe,
   .video img {
@@ -99,7 +115,14 @@
   .section_4,
   .section_2,
   .section_3,
-  .location, .pt10, .food, .section_8, .reviews, .programs, .questions, .registration {
+  .location,
+  .pt10,
+  .food,
+  .section_8,
+  .reviews,
+  .programs,
+  .questions,
+  .registration {
     padding: 5vh 0;
   }
   .section_2-img {
@@ -127,7 +150,8 @@
       left: -15px;
     }
   }
-  img , .food-img img{
+  img,
+  .food-img img {
     max-width: 100%;
     width: 100%;
   }
@@ -141,7 +165,7 @@
     padding-bottom: 50px;
     position: relative;
     width: 280px;
-}
+  }
   .projects-conntent p {
     br {
       display: none;
@@ -180,7 +204,7 @@
     iframe {
       width: 100%;
       min-height: 115px;
-        height: inherit;
+      height: inherit;
     }
   }
   .shifts {
@@ -211,7 +235,8 @@
     float: none;
     display: inline-block;
   }
-  .location-carousel, .programs-carousel {
+  .location-carousel,
+  .programs-carousel {
     width: 100%;
   }
   .success {
@@ -243,11 +268,50 @@
   .menu_modal .row ul.food-list {
     text-align: center;
   }
-      .command-list {
+  .command-list {
     li {
       img {
         display: none;
       }
     }
+  }
+  .mob {
+    display: block;
+    padding-left: 15px;
+  }
+  .command-item {
+      &.mob {
+        h2 {
+          display: block;
+        }
+      }
+      h2 {
+        display: none;
+
+      }
+    }
+  .command-carousel {
+    margin-top: 0;
+  }
+  .section_4-info {
+      img {
+        width: inherit;
+      }
+    }
+  .footer-social {
+    display: block;
+    img {
+       max-width: 14px;
+    width: 14px;
+    }
+  }
+  .call-me {
+    margin-top: 20px;
+  }
+  .command {
+    padding: 5vh 0 0;
+  }
+  .section_4-item:before {
+    display: none;
   }
 }
