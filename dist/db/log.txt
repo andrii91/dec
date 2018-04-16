@@ -1,0 +1,2013 @@
+ #---Log--  Array
+(
+    [date_time] => March 7, 2018, 7:29:30 pm
+    [REMOTE_ADDR] => 185.41.194.223
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => test 
+    [phone] => 380639611243
+    [email] => al@goit.ua
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => 
+    [ip_address] => 185.41.194.223
+    [city] => Cherkasy
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => 
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 10, 2018, 11:22:06 am
+    [REMOTE_ADDR] => 176.115.96.85
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Тестовая
+    [phone] => 8767679696
+    [email] => fdgdfvk
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => 
+    [ip_address] => 176.115.96.85
+    [city] => Kurenëvka
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => 
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 10, 2018, 12:07:22 pm
+    [REMOTE_ADDR] => 37.73.237.208
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Тест
+    [email] => djd@id.dud
+    [phone] => 556564685
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D100 Safari/604.1
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => 
+    [ip_address] => 37.73.237.208
+    [city] => 
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => 
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 13, 2018, 10:43:19 pm
+    [REMOTE_ADDR] => 109.251.133.210
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Macair Olx
+    [email] => 
+    [phone] => 0972446369
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => 
+    [ip_address] => 109.251.133.210
+    [city] => Vigurovshchino
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => 
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 14, 2018, 3:53:21 pm
+    [REMOTE_ADDR] => 217.147.163.26
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => test
+    [email] => eew@i.ua
+    [phone] => 0963444878
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => 
+    [ip_address] => 217.147.163.26
+    [city] => Kiev
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => 
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 14, 2018, 8:55:44 pm
+    [REMOTE_ADDR] => 46.211.64.38
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Марина
+    [phone] => 0674858689
+    [email] => marina.kashuba68@gmail.com
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 7.0; SM-G955F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/162.0.0.45.94;]
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => http://m.facebook.com/
+    [ip_address] => 46.211.64.38
+    [city] => Kiev
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => 
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 14, 2018, 11:15:42 pm
+    [REMOTE_ADDR] => 176.115.96.85
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Тест
+    [email] => khbnb@khb.com
+    [phone] => 8585887978
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => 
+    [ip_address] => 176.115.96.85
+    [city] => Kurenëvka
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.267173534.1521059319
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 15, 2018, 6:51:38 am
+    [REMOTE_ADDR] => 178.136.180.252
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Константин Ярошенко
+    [phone] => 0667754626
+    [email] => kostyar79@gmail.com
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:58.0) Gecko/20100101 Firefox/58.0
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => 
+    [ip_address] => 178.136.180.252
+    [city] => Zaporizhia
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.903401741.1521047242
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 15, 2018, 11:33:12 am
+    [REMOTE_ADDR] => 95.46.141.10
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Любов
+    [phone] => 0976699466
+    [email] => _
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/162.0.0.45.94;]
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => http://m.facebook.com/
+    [ip_address] => 95.46.141.10
+    [city] => Ternopil
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1747996291.1521112539
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 16, 2018, 8:13:18 pm
+    [REMOTE_ADDR] => 109.251.230.16
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => ТЕСТ
+    [email] => 955@gmail.com
+    [phone] => 0950959595
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => 
+    [ip_address] => 109.251.230.16
+    [city] => Kiev
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.458477764.1521118605
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 18, 2018, 3:55:25 pm
+    [REMOTE_ADDR] => 46.119.209.55
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Ольга
+    [email] => trinity_sv@ukr.net
+    [phone] => 0979991318
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 7.0; SM-G935F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 36.0.0.13.91 Android (24/7.0; 480dpi; 1080x1920; samsung; SM-G935F; hero2lte; samsungexynos8890; ru_UA; 96794592)
+    [utm_source] => fb+inst
+    [utm_campaign] => Conv%2FDECcamp%2Fmigovo
+    [utm_medium] => conv
+    [utm_term] => 3
+    [utm_content] => pix
+    [ref] => http://instagram.com/
+    [ip_address] => 46.119.209.55
+    [city] => Zaporizhia
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.2130349719.1521388493
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 18, 2018, 4:47:19 pm
+    [REMOTE_ADDR] => 93.74.85.101
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Ольга
+    [email] => 
+    [phone] => 0964558994
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 7.0; SM-A720F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/163.0.0.43.91;]
+    [utm_source] => fb+inst
+    [utm_campaign] => Conv%2FDECcamp%2Fmigovo
+    [utm_medium] => conv
+    [utm_term] => 2
+    [utm_content] => pix
+    [ref] => http://m.facebook.com/
+    [ip_address] => 93.74.85.101
+    [city] => Kiev
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.889032779.1521391611
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 18, 2018, 5:01:27 pm
+    [REMOTE_ADDR] => 93.75.68.61
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Ольга
+    [email] => yatsenukolga@gmail.com
+    [phone] => 0503888211
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D100 Safari/604.1
+    [utm_source] => Facebook
+    [utm_campaign] => Convertions%2FDECcamp%2Fmigovo
+    [utm_medium] => convertions
+    [utm_term] => 1
+    [utm_content] => rm
+    [ref] => 
+    [ip_address] => 93.75.68.61
+    [city] => Kiev
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.641406392.1521392367
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 20, 2018, 6:31:04 am
+    [REMOTE_ADDR] => 46.211.5.127
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Анжела Усик
+    [email] => anzhelausik@gmail.com
+    [phone] => 0958674350
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 7.0; SM-J710F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/164.0.0.37.95;]
+    [utm_source] => Facebook
+    [utm_campaign] => Convertions%2FDECcamp%2Fmigovo
+    [utm_medium] => convertions
+    [utm_term] => 1
+    [utm_content] => rm
+    [ref] => http://m.facebook.com/
+    [ip_address] => 46.211.5.127
+    [city] => 
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.931176353.1521527411
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 21, 2018, 5:25:10 pm
+    [REMOTE_ADDR] => 93.76.219.196
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => елена
+    [phone] => 0675389492
+    [email] => olena.rudnyeva@gmail.com
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Android 4.4.4; Tablet; rv:56.0) Gecko/56.0 Firefox/56.0
+    [utm_source] => facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 1
+    [utm_content] => mums
+    [ref] => https://m.facebook.com/
+    [ip_address] => 93.76.219.196
+    [city] => Kharkiv
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.381185262.1521653391
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 21, 2018, 7:51:35 pm
+    [REMOTE_ADDR] => 77.91.160.71
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Татьяна
+    [email] => brovko20@gmail.com
+    [phone] => 0506602379
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 [FBAN/FBIOS;FBAV/161.0.0.47.95;FBBV/94302063;FBDV/iPhone10,2;FBMD/iPhone;FBSN/iOS;FBSV/11.2.6;FBSS/3;FBCR/Kyivstar;FBID/phone;FBLC/ru_RU;FBOP/5;FBRV/0]
+    [utm_source] => fb+inst
+    [utm_campaign] => Conv%2FDECcamp%2Fmigovo
+    [utm_medium] => conv
+    [utm_term] => 1
+    [utm_content] => pix
+    [ref] => http://m.facebook.com
+    [ip_address] => 77.91.160.71
+    [city] => Kiev
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.478226892.1521661840
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 23, 2018, 5:16:22 am
+    [REMOTE_ADDR] => 93.170.117.55
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Ирина 
+    [email] => imperialka@i.ua
+    [phone] => 0955674939
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 6.0.1; SM-A500H Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/163.0.0.43.91;]
+    [utm_source] => fb+inst
+    [utm_campaign] => Conv%2FDECcamp%2Fmigovo
+    [utm_medium] => conv
+    [utm_term] => 1
+    [utm_content] => pix
+    [ref] => http://m.facebook.com/
+    [ip_address] => 93.170.117.55
+    [city] => Krykhivtsi
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1980438159.1521782131
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 23, 2018, 8:01:42 pm
+    [REMOTE_ADDR] => 37.54.146.28
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Светлана Горошко
+    [email] => cintara@ukr.net
+    [phone] => 0675954999
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 [FBAN/FBIOS;FBAV/163.0.0.54.96;FBBV/96876057;FBDV/iPhone8,1;FBMD/iPhone;FBSN/iOS;FBSV/11.2.6;FBSS/2;FBCR/Kyivstar;FBID/phone;FBLC/ru_RU;FBOP/5;FBRV/0]
+    [utm_source] => facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 3
+    [utm_content] => mums
+    [ref] => http://m.facebook.com
+    [ip_address] => 37.54.146.28
+    [city] => Kharkiv
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.78091771.1521835185
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 24, 2018, 5:25:23 pm
+    [REMOTE_ADDR] => 194.242.103.157
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Алена
+    [email] => likhodid@ukr.net
+    [phone] => 0956130093
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 5.1.1; SM-J320H Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/164.0.0.44.95;]
+    [utm_source] => Facebook
+    [utm_campaign] => Convertions%2FDECcamp%2Fmigovo
+    [utm_medium] => convertions
+    [utm_term] => 1
+    [utm_content] => rm
+    [ref] => http://m.facebook.com/
+    [ip_address] => 194.242.103.157
+    [city] => Pryluky
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.517116120.1521912085
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 25, 2018, 9:05:22 pm
+    [REMOTE_ADDR] => 178.215.184.128
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Мар'яна 
+    [email] => marjna.tiche@gmail.com
+    [phone] => 0686658731
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/164.0.0.44.95;]
+    [utm_source] => facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 3
+    [utm_content] => mums
+    [ref] => http://m.facebook.com/
+    [ip_address] => 178.215.184.128
+    [city] => Chernovtsi
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.2137216685.1522011718
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 26, 2018, 8:20:30 pm
+    [REMOTE_ADDR] => 46.211.123.105
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Екатерина
+    [phone] => 0673353093
+    [email] => katermatius@gmail.com
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 [FBAN/FBIOS;FBAV/163.0.0.54.96;FBBV/96876057;FBDV/iPhone8,1;FBMD/iPhone;FBSN/iOS;FBSV/11.2.6;FBSS/2;FBCR/Kyivstar;FBID/phone;FBLC/ru_RU;FBOP/5;FBRV/0]
+    [utm_source] => facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 3
+    [utm_content] => mums
+    [ref] => http://m.facebook.com
+    [ip_address] => 46.211.123.105
+    [city] => 
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1692366268.1522081116
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 27, 2018, 5:23:53 pm
+    [REMOTE_ADDR] => 194.44.46.130
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => тeтяна
+    [email] => climentovich@gmail.com
+    [phone] => 0950907915
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; U; Android 6.0; zh-CN; MZ-m2 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 MZBrowser/6.9.511-2018012510 UWS/2.11.0.33 Mobile Safari/537.36
+    [utm_source] => facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 3
+    [utm_content] => mums
+    [ref] => https://m.facebook.com/
+    [ip_address] => 194.44.46.130
+    [city] => Lutsk
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1272149590.1522174603
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 28, 2018, 4:01:12 am
+    [REMOTE_ADDR] => 77.93.54.145
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Елена
+    [email] => es7893109@gmail.com
+    [phone] => 0977893109
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 [FBAN/FBIOS;FBAV/94.0.0.49.70;FBBV/59086490;FBDV/iPhone9,3;FBMD/iPhone;FBSN/iOS;FBSV/11.2.6;FBSS/2;FBCR/Kyivstar;FBID/phone;FBLC/ru_RU;FBOP/5;FBRV/0]
+    [utm_source] => Facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 5
+    [utm_content] => mums
+    [ref] => http://m.facebook.com
+    [ip_address] => 77.93.54.145
+    [city] => 
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1556318085.1522209627
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 28, 2018, 1:43:30 pm
+    [REMOTE_ADDR] => 46.211.126.175
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Тимофей
+    [email] => morozowag@ukr.net
+    [phone] => 0507786537
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 6.0; CAM-L21 Build/HUAWEICAM-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.141 Mobile Safari/537.36 OPR/45.1.2246.125351
+    [utm_source] => facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 3
+    [utm_content] => mums
+    [ref] => https://m.facebook.com/
+    [ip_address] => 46.211.126.175
+    [city] => 
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1336245552.1522244574
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 28, 2018, 4:16:27 pm
+    [REMOTE_ADDR] => 185.35.10.79
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Екатерина
+    [email] => akkakebnekayse@gmail.com
+    [phone] => 0967990971
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 7.0; SM-A520F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/164.0.0.44.95;]
+    [utm_source] => Facebook
+    [utm_campaign] => conv
+    [utm_medium] => cpc
+    [utm_term] => 2
+    [utm_content] => like2
+    [ref] => http://m.facebook.com/
+    [ip_address] => 185.35.10.79
+    [city] => Kiev
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.578012211.1522253689
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 28, 2018, 9:45:02 pm
+    [REMOTE_ADDR] => 92.52.135.68
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Инна
+    [phone] => +380982975787
+    [email] => i.prohovskaya@gmail.com
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 5.0.2; SM-A300H Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/165.0.0.53.93;]
+    [utm_source] => Facebook
+    [utm_campaign] => conv
+    [utm_medium] => cpc
+    [utm_term] => 1
+    [utm_content] => like2
+    [ref] => http://m.facebook.com/
+    [ip_address] => 92.52.135.68
+    [city] => Rivne
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.988258291.1522273202
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => March 31, 2018, 10:30:50 am
+    [REMOTE_ADDR] => 93.175.201.88
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => наталя капустян
+    [email] => dmytrivnan@gmail.com
+    [phone] => 501826595
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 6.0.1; SM-J500H Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36
+    [utm_source] => Facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 4
+    [utm_content] => mums
+    [ref] => https://m.facebook.com/
+    [ip_address] => 93.175.201.88
+    [city] => Krykhivtsi
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1926653858.1522492207
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 5, 2018, 1:03:38 pm
+    [REMOTE_ADDR] => 91.207.57.21
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => test
+    [email] => test@com
+    [phone] => 0990000000
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => 
+    [ip_address] => 91.207.57.21
+    [city] => Brussel
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1972802472.1522932927
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 5, 2018, 8:02:50 pm
+    [REMOTE_ADDR] => 87.244.140.224
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Дзыгарь Юлия 
+    [email] => laguz_runa@i.ua
+    [phone] => 380975020800
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_3 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Mobile/15A432 [FBAN/FBIOS;FBAV/165.0.0.74.96;FBBV/100174821;FBDV/iPhone9,3;FBMD/iPhone;FBSN/iOS;FBSV/11.0.3;FBSS/2;FBCR/Kyivstar;FBID/phone;FBLC/ru_RU;FBOP/5;FBRV/0]
+    [utm_source] => facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 3
+    [utm_content] => mums
+    [ref] => http://m.facebook.com
+    [ip_address] => 87.244.140.224
+    [city] => Kremenchuk
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.738291979.1522958034
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 5, 2018, 8:18:58 pm
+    [REMOTE_ADDR] => 93.74.246.177
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => testt
+    [email] => testt@i.ua
+    [phone] => 2342353425345
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => 
+    [ip_address] => 93.72.171.206
+    [city] => 
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.780556973.1522932230
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 5, 2018, 9:02:29 pm
+    [REMOTE_ADDR] => 37.139.186.79
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Елена
+    [email] => elenagolosyn@ukr.net
+    [phone] => 0677689379
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 5.1; M3s Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.147 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/166.0.0.63.95;]
+    [utm_source] => Facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 4
+    [utm_content] => mums
+    [ref] => http://m.facebook.com/
+    [ip_address] => 37.139.186.79
+    [city] => Cherkassy
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1390668116.1522962118
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 6, 2018, 3:32:45 am
+    [REMOTE_ADDR] => 176.113.148.20
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Таня 
+    [phone] => 0635734052
+    [orderType] => MigovoTel
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPad; CPU OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 [FBAN/FBIOS;FBAV/165.0.0.74.96;FBBV/100174821;FBDV/iPad3,6;FBMD/iPad;FBSN/iOS;FBSV/10.3.3;FBSS/2;FBCR/;FBID/tablet;FBLC/ru_RU;FBOP/5;FBRV/0]
+    [utm_source] => Facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 5
+    [utm_content] => mums
+    [ref] => http://m.facebook.com
+    [ip_address] => 176.113.148.20
+    [city] => Kiev
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.800538352.1522985326
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 6, 2018, 5:33:36 am
+    [REMOTE_ADDR] => 176.38.247.146
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Nataliia
+    [email] => natsliia_tokar@ukr.net
+    [phone] => 0958248679
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 [FBAN/FBIOS;FBAV/165.0.0.74.96;FBBV/100174821;FBDV/iPhone9,2;FBMD/iPhone;FBSN/iOS;FBSV/11.2.6;FBSS/3;FBCR/Carrier;FBID/phone;FBLC/ru_RU;FBOP/5;FBRV/0]
+    [utm_source] => Facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 5
+    [utm_content] => mums
+    [ref] => http://m.facebook.com
+    [ip_address] => 176.38.247.146
+    [city] => 
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1913787525.1522992775
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 6, 2018, 5:34:14 am
+    [REMOTE_ADDR] => 176.38.247.146
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Nataliia
+    [email] => nataliia_tokar@ukr.net
+    [phone] => 0958248676
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 [FBAN/FBIOS;FBAV/165.0.0.74.96;FBBV/100174821;FBDV/iPhone9,2;FBMD/iPhone;FBSN/iOS;FBSV/11.2.6;FBSS/3;FBCR/Carrier;FBID/phone;FBLC/ru_RU;FBOP/5;FBRV/0]
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => http://dec.camp/migovo/success.html
+    [ip_address] => 176.38.247.146
+    [city] => 
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1913787525.1522992775
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 6, 2018, 10:53:52 am
+    [REMOTE_ADDR] => 46.133.38.78
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Ольга
+    [email] => olchikjjj1@rambler.ru
+    [phone] => 0500199652
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 7.0; K6000 Pro Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/166.0.0.63.95;]
+    [utm_source] => facebook
+    [utm_campaign] => carpatian_camp
+    [utm_medium] => cpc
+    [utm_term] => friends_of_subscribers
+    [utm_content] => 2903_7
+    [ref] => http://m.facebook.com/
+    [ip_address] => 46.133.38.78
+    [city] => Kiev
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1163774772.1523011986
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 6, 2018, 11:12:25 am
+    [REMOTE_ADDR] => 195.138.65.191
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Yuriy
+    [email] => y.presnov@gmail.com
+    [phone] => 0503163811
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPad; CPU OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D100 Safari/604.1
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => https://www.google.com.ua/
+    [ip_address] => 195.138.65.191
+    [city] => Odesa
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.542585765.1523012865
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 6, 2018, 11:32:12 pm
+    [REMOTE_ADDR] => 77.123.106.117
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Лариса
+    [email] => lbplatash@gmail.com
+    [phone] => +380990600769
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 6.0.1; Redmi 4A Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/166.0.0.63.95;]
+    [utm_source] => Facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 5
+    [utm_content] => mums
+    [ref] => http://m.facebook.com/
+    [ip_address] => 77.123.106.117
+    [city] => Chernivtsi
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1088220255.1523057280
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 7, 2018, 3:22:21 am
+    [REMOTE_ADDR] => 46.133.39.226
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Елена 
+    [email] => elenacabiy77@gmail.com
+    [phone] => 0954145017
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/166.0.0.66.95;]
+    [utm_source] => facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 3
+    [utm_content] => mums
+    [ref] => http://m.facebook.com/
+    [ip_address] => 46.133.39.226
+    [city] => Kiev
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1170993160.1523071292
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 7, 2018, 5:45:17 am
+    [REMOTE_ADDR] => 37.55.209.62
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Инна
+    [phone] => 0672191098
+    [email] => usataya1978@gmail.com
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 [FBAN/FBIOS;FBAV/49.0.0.72.166;FBBV/22916291;FBDV/iPhone8,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/11.2.6;FBSS/2; FBCR/Kyivstar;FBID/phone;FBLC/ru_RU;FBOP/5]
+    [utm_source] => Facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 5
+    [utm_content] => mums
+    [ref] => http://m.facebook.com
+    [ip_address] => 37.55.209.62
+    [city] => Zaporizhia
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1636493205.1523079588
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 7, 2018, 7:43:58 am
+    [REMOTE_ADDR] => 91.196.150.113
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Olena 
+    [email] => palmolena@yahoo.com
+    [phone] => 0989198260
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 6.0.1; Redmi 4A Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/164.0.0.44.95;]
+    [utm_source] => facebook
+    [utm_campaign] => carpatian_camp
+    [utm_medium] => cpc
+    [utm_term] => mother_growth
+    [utm_content] => 2903_4
+    [ref] => http://m.facebook.com/
+    [ip_address] => 91.196.150.113
+    [city] => Kiev
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.673243673.1523087007
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 7, 2018, 7:16:17 pm
+    [REMOTE_ADDR] => 85.238.101.64
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Екатерина
+    [email] => kaaaterinka@ukr.bet
+    [phone] => 0507081152
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Mobile/15C202 [FBAN/FBIOS;FBAV/166.0.0.53.95;FBBV/101310068;FBDV/iPhone9,3;FBMD/iPhone;FBSN/iOS;FBSV/11.2.2;FBSS/2;FBCR/Carrier;FBID/phone;FBLC/ru_RU;FBOP/5;FBRV/0]
+    [utm_source] => Facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 5
+    [utm_content] => mums
+    [ref] => 
+    [ip_address] => 85.238.101.64
+    [city] => Odessa
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.547279246.1523128525
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 7, 2018, 7:55:08 pm
+    [REMOTE_ADDR] => 46.133.236.201
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Юрій Кудрявцев
+    [email] => jurykud@ukr.net
+    [phone] => +38(095)834-8937
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 7.0; MI 5s Plus Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36
+    [utm_source] => Facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 5
+    [utm_content] => mums
+    [ref] => 
+    [ip_address] => 46.133.236.201
+    [city] => Dnipro
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1884348370.1523130774
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 8, 2018, 9:29:19 pm
+    [REMOTE_ADDR] => 41.33.180.124
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Горбатюк
+    [phone] => 0676713509
+    [email] => alenafashion2010@ukr.net
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_2 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Mobile/15C114 [FBAN/FBIOS;FBAV/160.0.0.34.96;FBBV/93101108;FBDV/iPhone9,2;FBMD/iPhone;FBSN/iOS;FBSV/11.2;FBSS/3;FBCR/Kyivstar;FBID/phone;FBLC/ru_RU;FBOP/5;FBRV/0]
+    [utm_source] => Facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 4
+    [utm_content] => mums
+    [ref] => http://m.facebook.com
+    [ip_address] => 41.33.180.124
+    [city] => Cairo
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1630329552.1523222709
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 9, 2018, 10:56:11 am
+    [REMOTE_ADDR] => 78.154.171.195
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => наталья
+    [email] => chyukonataliaz@gmail.com
+    [phone] => 0677861357
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 5.1; m3 note Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.117 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/166.0.0.66.95;]
+    [utm_source] => Facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 5
+    [utm_content] => mums
+    [ref] => http://m.facebook.com/
+    [ip_address] => 78.154.171.195
+    [city] => Verkhnodniprovsk
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.2085789149.1523271174
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 9, 2018, 4:58:23 pm
+    [REMOTE_ADDR] => 81.162.237.75
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Светлана
+    [email] => 
+    [phone] => 0506320293
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 [FBAN/FBIOS;FBAV/166.0.0.53.95;FBBV/101310068;FBDV/iPhone10,6;FBMD/iPhone;FBSN/iOS;FBSV/11.2.6;FBSS/3;FBCR/Carrier;FBID/phone;FBLC/ru_RU;FBOP/5;FBRV/0]
+    [utm_source] => facebook
+    [utm_campaign] => carpatian_camp
+    [utm_medium] => cpc
+    [utm_term] => mother_test
+    [utm_content] => 2903_4
+    [ref] => 
+    [ip_address] => 81.162.237.75
+    [city] => Vasilkov
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1372593541.1523292936
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 9, 2018, 9:10:16 pm
+    [REMOTE_ADDR] => 176.124.138.36
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Катерина
+    [email] => eedovgailo@gmail.com
+    [phone] => 0503102770
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_2 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Mobile/15C114 [FBAN/FBIOS;FBAV/166.0.0.53.95;FBBV/101310068;FBDV/iPhone10,3;FBMD/iPhone;FBSN/iOS;FBSV/11.2;FBSS/3;FBCR/Carrier;FBID/phone;FBLC/ru_RU;FBOP/5;FBRV/0]
+    [utm_source] => Facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 5
+    [utm_content] => mums
+    [ref] => http://m.facebook.com
+    [ip_address] => 176.124.138.36
+    [city] => Kiev
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1323570900.1523307984
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 10, 2018, 6:14:48 am
+    [REMOTE_ADDR] => 37.73.205.86
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Inna Kozlovska
+    [email] => naivete@ukr.net
+    [phone] => 0935688792
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 8.0.0; SM-G950F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => android-app://com.google.android.googlequicksearchbox
+    [ip_address] => 37.73.205.86
+    [city] => 
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => 
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 11, 2018, 2:05:49 pm
+    [REMOTE_ADDR] => 188.163.42.241
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Елена
+    [email] => kucherukolena@gmail.com
+    [phone] => 0675695569
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Mobile/15D100 [FBAN/FBIOS;FBAV/166.0.0.53.95;FBBV/101310068;FBDV/iPhone8,1;FBMD/iPhone;FBSN/iOS;FBSV/11.2.6;FBSS/2;FBCR/Kyivstar;FBID/phone;FBLC/ru_RU;FBOP/5;FBRV/0]
+    [utm_source] => Facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 5
+    [utm_content] => mums
+    [ref] => http://m.facebook.com
+    [ip_address] => 188.163.42.241
+    [city] => Dnipro
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.74440545.1523455472
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 11, 2018, 8:21:46 pm
+    [REMOTE_ADDR] => 212.90.62.180
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Лора 
+    [email] => Lts1995@gmail.com
+    [phone] => 0504620137
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 8.0.0; F5122 Build/34.4.A.2.50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => https://www.google.com.ua/
+    [ip_address] => 212.90.62.180
+    [city] => Kiev
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1912037668.1523448151
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 12, 2018, 5:14:37 am
+    [REMOTE_ADDR] => 176.115.96.3
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Любовь
+    [email] => businka-777@ukr.net
+    [phone] => 0672313051
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E216 [FBAN/FBIOS;FBAV/165.0.0.74.96;FBBV/100174821;FBDV/iPhone9,4;FBMD/iPhone;FBSN/iOS;FBSV/11.3;FBSS/3;FBCR/Kyivstar;FBID/phone;FBLC/ru_RU;FBOP/5;FBRV/0]
+    [utm_source] => facebook
+    [utm_campaign] => carpatian_camp
+    [utm_medium] => cpc
+    [utm_term] => mother_test
+    [utm_content] => 2903_4
+    [ref] => http://m.facebook.com
+    [ip_address] => 176.115.96.3
+    [city] => Kurenëvka
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1898241098.1523510034
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 12, 2018, 5:28:04 am
+    [REMOTE_ADDR] => 37.73.241.79
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Людмила Евгеньевна
+    [phone] => 380939382579
+    [email] => Oleksiymartsynenko@yahoo.com
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 8.0; MI 6 Build/OPR1.170623.027) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.4 Chrome/56.0.2924.87 Mobile Safari/537.36
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => http://dec.camp/migovo/?gclid=Cj0KCQjw5LbWBRDCARIsALAbcOehELUkp1GZbs1p9X6AKCxG3H2ZNSgsQTn7Uo5CFMV9kY3QiGM0_bwaAjFpEALw_wcB
+    [ip_address] => 37.73.241.79
+    [city] => 
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1589154306.1523484572
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 12, 2018, 11:41:00 am
+    [REMOTE_ADDR] => 93.79.188.113
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => юрий
+    [phone] => 0661880196
+    [orderType] => MigovoTel
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => https://www.google.com.ua/
+    [ip_address] => 93.79.188.113
+    [city] => Kherson
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1170306048.1523533223
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 12, 2018, 9:06:17 pm
+    [REMOTE_ADDR] => 31.134.114.143
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Ангелина
+    [email] => angelinaneborak2@gmail.com
+    [phone] => 0680776009
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 7.0; PRA-LX1 Build/HUAWEIPRA-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36
+    [utm_source] => Facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 5
+    [utm_content] => mums
+    [ref] => https://m.facebook.com/
+    [ip_address] => 31.134.114.143
+    [city] => Chernivtsi
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.785781359.1523567146
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 13, 2018, 4:41:06 am
+    [REMOTE_ADDR] => 141.226.26.142
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Наталья
+    [email] => isramoda@gmail.com
+    [phone] => +972523777042
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E216 [FBAN/FBIOS;FBAV/166.0.0.53.95;FBBV/101310068;FBDV/iPhone9,4;FBMD/iPhone;FBSN/iOS;FBSV/11.3;FBSS/3;FBCR/Cellcom;FBID/phone;FBLC/ru_RU;FBOP/5;FBRV/0]
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => http://dec.camp/
+    [ip_address] => 141.226.26.142
+    [city] => Tel Aviv
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1396125180.1523592921
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 13, 2018, 6:45:50 am
+    [REMOTE_ADDR] => 46.211.126.173
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Юлия
+    [email] => uniona@list.ru
+    [phone] => 0671711505
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 8.0.0; Mi A1 Build/OPR1.170623.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/166.0.0.66.95;]
+    [utm_source] => Facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 5
+    [utm_content] => mums
+    [ref] => http://m.facebook.com/
+    [ip_address] => 46.211.126.173
+    [city] => 
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.791437472.1523601901
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 13, 2018, 2:28:58 pm
+    [REMOTE_ADDR] => 195.43.70.146
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Григорий 
+    [email] => velichko1956@gmail.com.
+    [phone] => 0675573203
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => https://www.google.com.ua/
+    [ip_address] => 195.43.70.146
+    [city] => Mukacheve
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.288191408.1523629408
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 13, 2018, 8:06:49 pm
+    [REMOTE_ADDR] => 212.178.1.186
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Анна
+    [email] => annadudnyk@gmail.com
+    [phone] => 0504168387
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_2 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Mobile/15A421 [FBAN/FBIOS;FBAV/166.0.0.53.95;FBBV/101310068;FBDV/iPhone10,4;FBMD/iPhone;FBSN/iOS;FBSV/11.0.2;FBSS/2;FBCR/Carrier;FBID/phone;FBLC/ru_RU;FBOP/5;FBRV/0]
+    [utm_source] => facebook
+    [utm_campaign] => carpatian_camp
+    [utm_medium] => cpc
+    [utm_term] => 
+    [utm_content] => 1304
+    [ref] => http://m.facebook.com
+    [ip_address] => 212.178.1.186
+    [city] => Odesa
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1440049350.1523649979
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 14, 2018, 12:43:01 am
+    [REMOTE_ADDR] => 72.252.39.73
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Olga
+    [email] => olgagammon@gmail.com
+    [phone] => +18768938736
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D100 Safari/604.1
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => http://dec.camp/
+    [ip_address] => 72.252.39.73
+    [city] => Kingston
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1426739048.1523666366
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 14, 2018, 7:34:58 am
+    [REMOTE_ADDR] => 213.160.156.99
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Наталья
+    [phone] => 0980873654
+    [email] => doktor.bitryak@gmail.com
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 7.1.1; SM-J510H Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/167.0.0.42.94;]
+    [utm_source] => facebook
+    [utm_campaign] => carpatian_camp
+    [utm_medium] => cpc
+    [utm_term] => 
+    [utm_content] => 1304
+    [ref] => http://m.facebook.com/
+    [ip_address] => 213.160.156.99
+    [city] => Kiev
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1965523475.1523691014
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 15, 2018, 12:34:46 pm
+    [REMOTE_ADDR] => 46.211.66.159
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => валентина
+    [email] => 
+    [phone] => 0674701039
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 7.0; SM-G950F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/167.0.0.42.94;]
+    [utm_source] => Facebook
+    [utm_campaign] => conv+dec+camp+migovo
+    [utm_medium] => cpc
+    [utm_term] => 5
+    [utm_content] => mums
+    [ref] => http://m.facebook.com/
+    [ip_address] => 46.211.66.159
+    [city] => Kiev
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.2117221501.1523795575
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 15, 2018, 3:03:12 pm
+    [REMOTE_ADDR] => 212.90.182.194
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Карпенко Анна
+    [phone] => +380506572675
+    [email] => l_karpenko@ici-ua.com
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => https://www.google.com.ua/
+    [ip_address] => 212.90.182.194
+    [city] => Kiev
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1993035397.1523802441
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 15, 2018, 3:49:42 pm
+    [REMOTE_ADDR] => 176.38.182.148
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Альона
+    [email] => Lenok13_2000@bigmir.net
+    [phone] => 0679044538
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G361H Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => https://www.google.com/
+    [ip_address] => 176.38.182.148
+    [city] => 
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1504039746.1523807337
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 15, 2018, 4:59:56 pm
+    [REMOTE_ADDR] => 46.211.5.108
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Дмитрий уманец
+    [email] => 0966377671
+    [phone] => 0966377671
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Linux; Android 6.0; hiPower Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Safari/537.36
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => http://www.google.com.ua/
+    [ip_address] => 46.211.5.108
+    [city] => 
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.1107099900.1523811493
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 15, 2018, 7:24:24 pm
+    [REMOTE_ADDR] => 81.162.227.66
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Виктория 
+    [email] => v2093369@gmail.com
+    [phone] => 0672093369
+    [orderType] => Migovo
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E216 [FBAN/FBIOS;FBAV/165.0.0.74.96;FBBV/100174821;FBDV/iPhone10,6;FBMD/iPhone;FBSN/iOS;FBSV/11.3;FBSS/3;FBCR/Kyivstar;FBID/phone;FBLC/ru_RU;FBOP/5;FBRV/0]
+    [utm_source] => facebook
+    [utm_campaign] => carpatian_camp
+    [utm_medium] => cpc
+    [utm_term] => 
+    [utm_content] => 1304
+    [ref] => 
+    [ip_address] => 81.162.227.66
+    [city] => Uzyn
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => 
+    [affiliate_id] => 
+)
+ ------#   #---Log--  Array
+(
+    [date_time] => April 15, 2018, 10:28:46 pm
+    [REMOTE_ADDR] => 5.248.239.126
+)
+ --GET-- Array
+(
+)
+ --POST-- Array
+(
+    [name] => Леонила,радиореклама взамен на путевки
+    [phone] => 050-85-89-364
+    [orderType] => MigovoTel
+    [page_url] => http://dec.camp/migovo/
+    [user_agent] => Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+    [utm_source] => 
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_term] => 
+    [utm_content] => 
+    [ref] => http://www.parta.com.ua/rest_bases/view/163/
+    [ip_address] => 5.248.239.126
+    [city] => Kiev
+    [client_id] => 
+    [utmcsr] => 
+    [utmccn] => 
+    [utmcmd] => 
+    [click_id] => GA1.2.621023955.1523831967
+    [affiliate_id] => 
+)
+ ------#  

@@ -1,0 +1,214 @@
+@import '../../mq';
+
+@media #{$tabletPortrait} {
+  //    @import '../mobile';
+  & {
+    .mob-btn {
+      display: block;
+      margin-left: auto;
+      padding-right: 15px;
+    }
+    .top-menu .menu {
+      display: none;
+      margin-top: 30px;
+      li {
+        display: block;
+        margin: 0;
+        text-align: center;
+        margin-bottom: 20px;
+        &.call {
+          float: none;
+        }
+        a {
+          display: block;
+        }
+      }
+    }
+    .left {
+      max-width: 50%;
+    }
+    .top-menu .logo {
+      text-align: left;
+    }
+    .top-menu .right {
+      -ms-flex: 0 0 1;
+      flex: 0 0 1;
+      max-width: 1;
+    }
+    header,
+    main,
+    footer {
+      overflow: hidden;
+    }
+    .top-menu .menu li.phone {
+      margin-left: 0;
+    }
+
+    .head-hgroup h1 {
+      font-size: 120px;
+      line-height: 1;
+    }
+    .head {
+      background-size: cover;
+      min-height: inherit;
+      padding-bottom: 30px;
+    }
+    .video {
+      max-width: 100%;
+    }
+    .video iframe,
+    .video img {
+      max-width: 100%;
+    }
+
+    .section-list {
+      padding-top: 30px;
+      //        max-width: 44%;
+    }
+    section {
+      padding: 5vh 0 !important;
+    }
+    .section_2-info,
+    .section_2-flag {
+      display: inline-block;
+      margin-top: 30px;
+    }
+    .section_2-flag {
+      float: right;
+      li:nth-child(even) {
+        margin-right: 26px;
+      }
+    }
+    img {
+      max-width: 100%;
+    }
+    .section_3-title p:before {
+      display: none;
+    }
+    .section_4 h2,
+    .section_4-img,
+    .section_4-info p {
+      display: inline-block;
+    }
+    .section_4-img {
+      text-align: right;
+      float: right;
+    }
+    .section_4-info img {
+      float: right;
+      margin-right: 5%;
+    }
+    .md-none {
+      display: none;
+    }
+    .section_4-list,
+    .location-list {
+      display: block;
+      max-width: 100%;
+    }
+    .section_4-list li,
+    .location-list li {
+      display: inline-block;
+    }
+    .projects-carousel {
+      max-width: 100%;
+    }
+    .projects-conntent {
+      br {
+        display: none;
+      }
+    }
+    .projects-conntent h4 {
+      padding-bottom: 35px;
+    }
+    .location-carousel,
+    .programs-carousel {
+      width: 100%;
+    }
+
+    .location-list li {
+      margin-bottom: 17px;
+      max-width: 232px;
+      float: left;
+    }
+    .command-carousel {
+      margin-top: 57px;
+      max-width: calc(100% - 40px);
+      margin-left: 40px;
+    }
+    .command-list {
+      max-width: 100%;
+      li {
+        display: inline-block;
+      }
+    }
+    .section_8 h2 {
+      font-size: 38px;
+      line-height: 1;
+    }
+    .food-img img {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    .reviews-item {
+      p {
+        display: inline-block;
+        margin-right: 20px;
+      }
+      h2 {
+        display: inline-block;
+        float: right;
+        max-width: 600px;
+        br {
+          display: none;
+        }
+      }
+
+    }
+    .programs {
+      .location-list li {
+        max-width: 100%;
+      }
+    }
+    .registration-form {
+      margin: auto;
+    }
+    .footer-social {
+      margin-left: 0;
+    }
+    .registration-form {
+      max-width: 100%;
+    }
+    .md-ml95 {
+      margin-left: 95px;
+    }
+
+    .section-list li {
+      display: inline-block;
+      max-width: 32.3%;
+      vertical-align: top;
+    }
+    .section_1 h2 {
+      margin-bottom: 20px;
+      br {
+        display: none;
+      }
+    }
+    .section_2-info {
+      margin-bottom: 0;
+    }
+    .section_4-img {
+      margin-bottom: 20px;
+    }
+    .section_4-list {
+      display: inline-block;
+      vertical-align: top;
+      li {
+        padding-left: 0;
+        &:before {
+          display: none;
+        }
+      }
+    }
+  }
+}

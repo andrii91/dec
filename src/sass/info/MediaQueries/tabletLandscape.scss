@@ -1,0 +1,67 @@
+@import '../../mq';
+
+@media #{$tabletLandscape} {
+  @import '../desktop';
+  .footer-social {
+    margin-left: 42px;
+  }
+  .section_3-title p:before {
+    display: block;
+  }
+  .md-none {
+    display: block;
+  }
+  .section-list {
+    max-width: 100%;
+  }
+  .section_4-item h4 {
+    width: 200px;
+  }
+  #countdown_1 {
+    .position {
+      display: inline-block;
+      height: 1.4em;
+      overflow: hidden;
+      position: relative;
+      width: .4em;
+    }
+    .digit {
+      font-size: 17px;
+    }
+  }
+  .md-ml95 {
+    margin-left: 0;
+  }
+  .command-list {
+    li {
+      img {
+        display: inline-block;
+      }
+    }
+  }
+  .section-list li {
+        display: block;
+        max-width: 100%;
+        vertical-align: top;
+    }
+  .section_2-flag {
+    li {
+        margin-right: 10px;
+        margin-bottom: 10px;
+      display: inline-block;
+        max-width: 35%;
+      img {
+      }
+    }
+  }
+   .section_4-list {
+      display: block;
+      vertical-align: top;
+      li {
+        padding-left: 60px;
+        &:before {
+          display: block;
+        }
+      }
+    }
+}

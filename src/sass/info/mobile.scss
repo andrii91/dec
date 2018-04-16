@@ -1,0 +1,253 @@
+& {
+  .mob-btn {
+    display: block;
+    margin-left: auto;
+    padding-right: 15px;
+  }
+  .top-menu .menu {
+    display: none;
+    margin-top: 30px;
+    li {
+      display: block;
+      margin: 0;
+      text-align: center;
+      margin-bottom: 20px;
+      &.call {
+        float: none;
+      }
+      a {
+        display: block;
+      }
+    }
+  }
+  .left {
+    max-width: 50%;
+  }
+  .top-menu .logo {
+    text-align: left;
+  }
+  .top-menu .right {
+    -ms-flex: 0 0 1;
+    flex: 0 0 1;
+    max-width: 1;
+  }
+  header,
+  main,
+  footer {
+    overflow: hidden;
+  }
+  .top-menu .menu li.phone {
+    margin-left: 0;
+  }
+  .head-hgroup h1 {
+    font-size: 100px;
+    line-height: 1;
+  }
+  .head-hgroup p {
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  .head {
+    background-size: cover;
+    background-position: 43%;
+  }
+  .head-address {
+    margin-top: 40px;
+    margin-bottom: 0;
+    display: inline-block;
+  }
+  .head-info {
+    margin-top: 40px;
+    float: right;
+  }
+  .head-item {
+    margin-top: 30px;
+    text-align: left;
+    background: rgba(255, 255, 255, 0.5);
+  }
+  .head-item .price {
+    margin-left: 0;
+  }
+  .section_1-items .item {
+    br {
+      display: none;
+    }
+  }
+  .section_1-items .col-lg-4:nth-child(3) .item {
+    margin-top: 20px;
+  }
+  .video iframe,
+  .video img {
+    height: inherit;
+  }
+  .section_1 h2 {
+    margin-bottom: 20px;
+    padding: 30px 0;
+    br {
+      display: none;
+    }
+  }
+  h2 {
+    font-size: 38px !important;
+    margin-bottom: 20px !important;
+    br {
+      display: none;
+    }
+  }
+  .section_1,
+  .projects,
+  .section_4,
+  .section_2,
+  .section_3,
+  .location, .pt10, .food, .section_8, .reviews, .programs, .questions, .registration {
+    padding: 5vh 0;
+  }
+  .section_2-img {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    img {
+      max-width: 100%;
+    }
+  }
+  .section_2-flag li:nth-child(even) {
+    margin-right: 26px;
+  }
+  .section_3-img img {
+    width: 100%;
+  }
+  .modal .registration-form {
+    padding: 15px;
+  }
+  .section_4-info {
+    text-align: center;
+  }
+  .section_4-item {
+    padding-left: 0;
+    &:before {
+      left: -15px;
+    }
+  }
+  img , .food-img img{
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .projects-item {
+    padding-left: 15px;
+  }
+  .projects-conntent h4 {
+    padding-top: 42px;
+    padding-left: 0;
+    padding-bottom: 50px;
+    position: relative;
+    width: 280px;
+}
+  .projects-conntent p {
+    br {
+      display: none;
+    }
+  }
+  .location .head-address {
+    display: inline-block;
+    margin-top: 0;
+  }
+  .location-info {
+    float: right;
+  }
+  .location-list {
+    margin-bottom: 50px;
+  }
+  .section_1-items .item {
+    margin-bottom: 30px;
+  }
+  .spelling {
+    display: block;
+    margin-bottom: 30px;
+  }
+  .section_8-item {
+    br {
+      display: none;
+    }
+  }
+  .food-item {
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+  }
+  .food-list {
+    margin-bottom: 30px;
+  }
+  .reviews-video {
+    iframe {
+      width: 100%;
+      min-height: 115px;
+        height: inherit;
+    }
+  }
+  .shifts {
+    margin-bottom: 20px;
+  }
+  .programs-info {
+    margin-top: 30px;
+  }
+  .registration-form {
+    padding: 45px 25px;
+  }
+  .registration-info {
+    margin-bottom: 30px;
+  }
+  .footer-social {
+    margin-left: 0;
+    display: block;
+    text-align: center;
+  }
+  .footer {
+    text-align: center;
+    background-size: cover;
+  }
+  .footer .logo {
+    text-align: center;
+  }
+  .call-me {
+    float: none;
+    display: inline-block;
+  }
+  .location-carousel, .programs-carousel {
+    width: 100%;
+  }
+  .success {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .success-item h1 {
+    font-size: 75px;
+  }
+  .img-box {
+    text-align: center;
+    img {
+      width: inherit;
+    }
+  }
+  .section_4-info p {
+    br {
+      display: none;
+    }
+  }
+  .section_4-item h4 {
+    margin-bottom: 20px;
+  }
+  .section_4-1-item p {
+    br {
+      display: none;
+    }
+  }
+  .menu_modal .row ul.food-list {
+    text-align: center;
+  }
+      .command-list {
+    li {
+      img {
+        display: none;
+      }
+    }
+  }
+}
