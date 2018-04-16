@@ -572,6 +572,7 @@ body {
     line-height: 0;
     outline: none;
       float: left;
+      height: 8px;
       span {
         color: #d4d2ce;
       }
@@ -579,6 +580,8 @@ body {
     .owl-next {
     line-height: 0;
     outline: none;
+      height: 8px;
+      
       float: right;
     }
   }
