@@ -399,7 +399,7 @@ $(document).ready(function () {
 
 
   $('.reviews-video').each(function () {
-    $(this).find('img').attr('src', 'http://i.ytimg.com/vi/' + $(this).data('id') + '/maxresdefault.jpg');
+    $(this).find('img').attr('src', 'http://i.ytimg.com/vi/' + $(this).data('id') + '/sddefault.jpg');
   });
   $('.reviews-btn').click(function () {
     var iframe_url = "https://www.youtube.com/embed/" + $(this).parent().data('id') + "?autoplay=1&autohide=1&rel=0&amp;showinfo=0";
