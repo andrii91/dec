@@ -1800,7 +1800,7 @@ letter-spacing: 0.48px;
     width: 60px;
     height: 35px;
     z-index: 20;
-    &:nth-child(2) {
+   /* &:nth-child(2) {
       left: -1.5px;
       -webkit-animation: logo_glitch-anim-1 2s infinite linear alternate-reverse;
       animation: logo_glitch-anim-1 2s infinite linear alternate-reverse;
@@ -1809,7 +1809,7 @@ letter-spacing: 0.48px;
           left: 1.5px;
     -webkit-animation: logo_glitch-anim-2 3s infinite linear alternate-reverse;
     animation: logo_glitch-anim-2 3s infinite linear alternate-reverse;
-    }
+    }*/
   }
   &:hover {
     svg {
