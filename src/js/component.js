@@ -240,6 +240,7 @@ $(document).ready(function () {
   $('.play-btn').click(function () {
     $(this).hide();
     $(this).parent().find('img').hide();
+    $(this).parent().find('.paranja').hide();
     $(this).parent().append('<iframe src="' + $(this).parent().data('url') + '"  width="555" height="419" frameborder="0"></iframe>')
   });
   var slider_1 = $('.section_4-slider');

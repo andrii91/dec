@@ -271,6 +271,14 @@ body {
   display: inline-block;
   max-width: 555px;
     width: 100%;
+  .paranja {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: rgba(0,0,0,0.45);
+  }
   img, iframe {
     max-width: 555px;
     width: 100%;
