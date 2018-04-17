@@ -68,15 +68,21 @@
     margin-top: 40px;
     margin-bottom: 0;
     display: inline-block;
+    br {
+    display: block;
+    }
   }
   .head-info {
     margin-top: 40px;
-    float: none;
+    float: right;
   }
   .head-item {
     margin-top: 30px;
     text-align: left;
     background: rgba(255, 255, 255, 0.5);
+    br {
+      display: block;
+    }
   }
   .head-item .price {
     margin-left: 0;
@@ -283,6 +289,8 @@
       &.mob {
         h2 {
           display: block;
+          background: none;
+          padding: 0;
         }
       }
       h2 {
@@ -296,6 +304,7 @@
   .section_4-info {
       img {
         width: inherit;
+        margin: 20px 0;
       }
     }
   .footer-social {
@@ -314,4 +323,66 @@
   .section_4-item:before {
     display: none;
   }
+  .section_2-img, .section_4-img {
+    display: none;
+  }
+  .section_2-info {
+    max-width: 100%;
+    margin-top: 20px;
+  }
+  .section_4-info p {
+    color: #8f8a80;
+    font-family: "MADE Evolve Sans";
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    margin-bottom: 36px;
+    display: inline-block;
+    width: 49%;
+    vertical-align: middle;
+    text-align: left;
+    margin-top: 20px;
+}
+  .md-none {
+    display: none;
+  }
+  .xs-first {
+        -ms-flex-order: -1;
+    order: -1;
+  }
+  .projects-item {
+    margin-bottom: 30px;
+  }
+  .projects-conntent h4 {
+    background-size: 100%;
+  }
+  .location-info {
+    br {
+      display: block;
+    }
+  }
+  .registration-price p {
+    br {
+      display: block;
+    }
+  }
+  .questions-img {
+    display: none;
+  }
+  .section-slider .owl-nav, .section_4-slider .owl-nav {
+        width: 64px;
+         height: inherit; 
+        padding: 14px;
+    }
+  .reviews-carousel .owl-nav {
+    background: 0 0;
+    transform-origin: left center;
+    transform: rotate(90deg);
+    top: -31px;
+    left: 48px;
+}
+  .section_4-1-title {
+  margin-bottom: 10px;
+  }
+  
 }

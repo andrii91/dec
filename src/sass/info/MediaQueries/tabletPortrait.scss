@@ -95,9 +95,8 @@
       text-align: right;
       float: right;
     }
-    .section_4-info img {
-      float: right;
-      margin-right: 5%;
+    .section_4-info {
+      margin-bottom: 30px;
     }
     .md-none {
       display: none;
@@ -152,12 +151,15 @@
     }
     .food-img img {
       width: 100%;
-      margin-bottom: 20px;
+      margin-bottom: 30px;
     }
     .reviews-item {
       p {
         display: inline-block;
         margin-right: 20px;
+        br {
+          display: block;
+        }
       }
       h2 {
         display: inline-block;
@@ -258,7 +260,7 @@
     }
     .programs {
       .registration-btn {
-        margin-bottom: 50px;
+        margin-bottom: 100px;
       }
     }
     .registration h2 {
@@ -283,11 +285,40 @@
       margin-top: -10px;
       border: 1px solid #000;
     }
-    
+
     .section_4-info {
       img {
         width: inherit;
       }
+    }
+    .section_4-img {
+      display: none;
+    }
+    .section_4-info p {
+      max-width: 70%;
+      vertical-align: middle;
+      margin-bottom: 0;
+    }
+    .section_4 h2 {
+      margin-bottom: 0;
+      background: none;
+    }
+    .command-item h2 {
+      padding: 0;
+      margin: 0 0 20px;
+    }
+    .registration-price {
+      br {
+        display: block;
+      }
+    }
+    .location {
+      br {
+        display: block;
+      }
+    }
+    .section_1-items {
+margin-bottom: 20px;
     }
   }
 }
